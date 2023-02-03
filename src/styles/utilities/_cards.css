@@ -1,0 +1,34 @@
+.card-buku-kas .container-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  background: #ddd;
+}
+.card-buku-kas .btn-edit {
+  width: 25px;
+  height: 25px;
+}
+.card-buku-kas .title,
+.card-buku-kas .desc {
+  -webkit-line-clamp: 2;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+  font-family: "Roboto", sans-serif !important;
+}
+.card-buku-kas:hover .title {
+  text-decoration: underline;
+}
+.logo-icon {
+  width: 35px;
+}
+
+.img-profile {
+  border-radius: 5px;
+}
+
+.logo-mobile {
+  width: 150px;
+  height: 36.67px;
+}

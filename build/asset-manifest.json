@@ -1,0 +1,35 @@
+{
+  "files": {
+    "static/js/0.84aeb013.chunk.js": "https://crp.alan.co.id/static/js/0.84aeb013.chunk.js",
+    "static/js/0.84aeb013.chunk.js.map": "https://crp.alan.co.id/static/js/0.84aeb013.chunk.js.map",
+    "static/js/1.e9d6f565.chunk.js": "https://crp.alan.co.id/static/js/1.e9d6f565.chunk.js",
+    "static/js/1.e9d6f565.chunk.js.map": "https://crp.alan.co.id/static/js/1.e9d6f565.chunk.js.map",
+    "main.css": "https://crp.alan.co.id/static/css/main.b192d0b5.chunk.css",
+    "main.js": "https://crp.alan.co.id/static/js/main.f517be16.chunk.js",
+    "main.js.map": "https://crp.alan.co.id/static/js/main.f517be16.chunk.js.map",
+    "runtime-main.js": "https://crp.alan.co.id/static/js/runtime-main.921d29da.js",
+    "runtime-main.js.map": "https://crp.alan.co.id/static/js/runtime-main.921d29da.js.map",
+    "static/css/4.f9707605.chunk.css": "https://crp.alan.co.id/static/css/4.f9707605.chunk.css",
+    "static/js/4.e17bd2c2.chunk.js": "https://crp.alan.co.id/static/js/4.e17bd2c2.chunk.js",
+    "static/js/4.e17bd2c2.chunk.js.map": "https://crp.alan.co.id/static/js/4.e17bd2c2.chunk.js.map",
+    "static/js/5.4236f60e.chunk.js": "https://crp.alan.co.id/static/js/5.4236f60e.chunk.js",
+    "static/js/5.4236f60e.chunk.js.map": "https://crp.alan.co.id/static/js/5.4236f60e.chunk.js.map",
+    "static/js/6.bb3e66ec.chunk.js": "https://crp.alan.co.id/static/js/6.bb3e66ec.chunk.js",
+    "static/js/6.bb3e66ec.chunk.js.map": "https://crp.alan.co.id/static/js/6.bb3e66ec.chunk.js.map",
+    "index.html": "https://crp.alan.co.id/index.html",
+    "precache-manifest.df6b8559d0195e37e1ae3bcfec46a2c1.js": "https://crp.alan.co.id/precache-manifest.df6b8559d0195e37e1ae3bcfec46a2c1.js",
+    "service-worker.js": "https://crp.alan.co.id/service-worker.js",
+    "static/css/4.f9707605.chunk.css.map": "https://crp.alan.co.id/static/css/4.f9707605.chunk.css.map",
+    "static/css/main.b192d0b5.chunk.css.map": "https://crp.alan.co.id/static/css/main.b192d0b5.chunk.css.map",
+    "static/js/0.84aeb013.chunk.js.LICENSE.txt": "https://crp.alan.co.id/static/js/0.84aeb013.chunk.js.LICENSE.txt",
+    "static/js/4.e17bd2c2.chunk.js.LICENSE.txt": "https://crp.alan.co.id/static/js/4.e17bd2c2.chunk.js.LICENSE.txt",
+    "static/js/main.f517be16.chunk.js.LICENSE.txt": "https://crp.alan.co.id/static/js/main.f517be16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.921d29da.js",
+    "static/css/4.f9707605.chunk.css",
+    "static/js/4.e17bd2c2.chunk.js",
+    "static/css/main.b192d0b5.chunk.css",
+    "static/js/main.f517be16.chunk.js"
+  ]
+}

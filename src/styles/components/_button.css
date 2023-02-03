@@ -1,0 +1,305 @@
+.button-purple {
+  margin-bottom: 10px;
+  box-shadow: none !important;
+  transition: 0.2s;
+  background-color: #7066eb !important;
+  color: #fff !important;
+}
+.button-purple.opacity {
+  background-color: rgba(112, 102, 235, 0.15) !important;
+  color: #7066eb !important;
+}
+.button-purple:hover {
+  background-color: rgba(112, 102, 235, 0.4) !important;
+}
+.button-purple .text-button {
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.button-danger {
+  margin-bottom: 10px;
+  box-shadow: none !important;
+  background-color: rgba(239, 79, 79, 100) !important;
+  color: #fff !important;
+  transition: 0.2s;
+}
+.button-danger.opacity {
+  background-color: rgba(239, 79, 79, 0.55) !important;
+  color: #fff !important;
+}
+.button-danger:hover {
+  background-color: rgba(239, 79, 79, 0.9) !important;
+}
+.button-danger .text-button {
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.button-grey {
+  margin-bottom: 10px;
+  box-shadow: none !important;
+  background: #d5d5d5;
+  transition: 0.2s;
+}
+.button-grey:hover {
+  background-color: #b0b0b0 !important;
+}
+.button-grey .text-button {
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.button-blue {
+  margin-bottom: 10px;
+  box-shadow: none !important;
+  background: rgba(112, 102, 235, 0.9) !important;
+  transition: 0.2s !important;
+  color: white !important;
+}
+.button-blue:hover {
+  background-color: #9d96f4 !important;
+}
+.button-blue .text-button {
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.button-green {
+  margin-bottom: 10px;
+  box-shadow: none !important;
+  background-color: #16c79a !important;
+  transition: 0.2s;
+  color: #fff !important;
+}
+
+.button-green.opacity {
+  background-color: #b2eadc !important;
+}
+.button-green:hover {
+  background-color: #1ac79c !important;
+}
+.button-green .text-button {
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.button-orange {
+  margin-bottom: 10px;
+  box-shadow: none !important;
+  transition: 0.2s;
+  background-color: rgba(242, 157, 86, 100) !important;
+  color: #fff !important;
+}
+.button-orange.opacity {
+  background-color: rgba(242, 157, 86, 0.15) !important;
+  color: #f29d56 !important;
+}
+.button-orange:hover {
+  background-color: rgba(242, 157, 86, 0.4) !important;
+}
+.button-orange .text-button {
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.btn-nomor-soal {
+  display: flex;
+  background: #d5d5d5;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  max-width: 35px;
+  height: 34px;
+  border-radius: 5px;
+  width: 34px;
+  border: none;
+  cursor: pointer;
+}
+.btn-nomor-soal:hover {
+  background: #b0b0b0;
+}
+.btn-nomor-soal.active {
+  background: #b0b0b0;
+}
+.btn-nomor-soal.done {
+  background: #fd591d;
+}
+.btn-nomor-soal.wrong {
+  background: #ef4f4f;
+}
+.btn-nomor-soal.done.active {
+  background: #d0cbff;
+}
+.btn-nomor-soal.wrong.active {
+  background: #ff7a7a;
+}
+.button-outline-error {
+  border: 1px solid #ef4f4f !important;
+  color: #ef4f4f !important;
+}
+
+/* BUTTON COLOR */
+.btn-blue {
+  background-color: #0094ff !important;
+}
+
+.button-mod {
+  border-radius: 20px !important;
+  height: 35px !important;
+  width: 300px;
+}
+
+.button-try {
+  border-radius: 20px !important;
+  height: 30px !important;
+  width: 130px;
+}
+
+.text-p {
+  font-weight: 450;
+  text-transform: capitalize;
+}
+/* Button upload profile */
+.btn-foto-profile {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgb(0 0 0 / 10%) !important;
+  border-radius: 100% !important;
+}
+.btn-foto-profile:hover {
+  background: rgb(0 0 0 / 50%) !important;
+}
+
+.no-border {
+  border: 0px solid rgba(224, 224, 224, 1) !important;
+}
+
+.badge-diskon {
+  margin-bottom: 10px !important;
+  margin-top: 0px !important;
+  box-shadow: none !important;
+  background-color: #ebb666 !important;
+  transition: 0.2s;
+  color: #fff !important;
+}
+
+/* Buton upload file */
+.container-btn-file {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0 0 0 / 5%) !important;
+  position: absolute !important;
+  left: 0;
+  top: 0;
+}
+
+.container-btn-file input[type="file"] {
+  position: absolute;
+  z-index: -1;
+  top: 6px;
+  left: 0px;
+  font-size: 15px;
+  color: rgb(153, 153, 153);
+}
+
+.container-btn-file .button-wrap {
+  position: relative;
+}
+
+.container-btn-file .new-button {
+  display: inline-block;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: #9c27b0;
+  font-size: 16px;
+  color: #fff;
+}
+
+.button-primary {
+  margin-bottom: 10px;
+  box-shadow: none !important;
+  transition: 0.2s;
+  background-color: #fd591d !important;
+  color: #fff !important;
+}
+
+.button-primary.opacity {
+  background-color: #ffa07d !important;
+}
+
+.button-primary:hover {
+  background-color: #ffa07d !important;
+}
+
+.button-primary .text-button {
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.btn-warna {
+  border-radius: 3px;
+  border: 0;
+  color: #fff;
+  padding: 5px 15px 5px 15px;
+  cursor: pointer;
+  flex: 2;
+}
+.btn-warna.merah {
+  background: #ff4646;
+}
+.btn-warna.kuning {
+  background: #ffd151;
+}
+.btn-warna.hijau {
+  background: #16c79a;
+}
+.btn-warna.ungu {
+  background: #a79dff;
+}
+.container-btn-del-file {
+  width: 25px;
+  height: 25px;
+  position: absolute !important;
+  right: -5px;
+  background-color: #ff4646 !important;
+  padding: 0 !important;
+  min-width: 25px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border-radius: 25px !important;
+  top: -5px;
+}
+
+.btn-formula {
+  border: none;
+  background: none;
+  margin-left: 20px;
+  margin-top: 8px;
+  position: absolute;
+  cursor: pointer;
+}
+
+.input-editor .ql-toolbar.ql-snow {
+  padding-left: 40px;
+}
+
+.container-btn-del-file {
+  width: 25px;
+  height: 25px;
+  position: relative !important;
+  right: -10px;
+  background-color: #ff4646 !important;
+  padding: 0 !important;
+  min-width: 25px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border-radius: 25px !important;
+  top: -15px;
+}

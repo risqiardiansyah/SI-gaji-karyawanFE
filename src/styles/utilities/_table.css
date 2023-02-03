@@ -1,0 +1,8 @@
+.MuiTableCell-root {
+  word-break: normal !important;
+  font-family: "Roboto", sans-serif !important;
+}
+
+.MuiTable-root.buku-kas-table {
+  min-width: 800px;
+}
